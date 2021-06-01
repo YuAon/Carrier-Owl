@@ -7,6 +7,7 @@ keywords:
         transformer: 3
         BERT: 3
         attention: 3
+        brain: 3
         anomaly detection: 1
 
 # 通知の閾値
